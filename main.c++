@@ -1,13 +1,3 @@
-// wireframe_3d_transform_fixed.cpp
-// Single-file OpenGL (freeGLUT) example for Code::Blocks (MinGW).
-// - Software DDA line algorithm (GL_POINTS).
-// - 4x4 homogeneous matrices with operator* overloads.
-// - Orthographic & Perspective projection (manual).
-// - Interactive keyboard controls (see below).
-//
-// Linker flags (Windows MinGW + freeGLUT):
-//   -lfreeglut -lopengl32 -lglu32
-
 #include <GL/glut.h>
 #include <cmath>
 #include <vector>
